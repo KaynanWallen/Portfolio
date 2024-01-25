@@ -31,7 +31,6 @@ function Header() {
                     <a className="underline-on-hover" href="#" onClick={() => scrollToId('home')}>
                         <span className='hidden md:flex menu-header cursor-pointer'>Home </span>
                     </a>
-
                     <a className="underline-on-hover" href="#" onClick={() => scrollToId('about')}>
                         <span className='hidden md:flex menu-header cursor-pointer'>Sobre mim </span>
                     </a>

@@ -38,7 +38,7 @@ function CardProjeto({ nome, descricao, site, repositorio, imagem, status }: Car
                 ) : (
                     <>
 
-                        <h4 className="text-[24px] text-verde mt-[50px] font-bold">Nome Projeto</h4>
+                        <h4 className="text-[24px] text-verde mt-[50px] font-bold">{nome}</h4>
                         <a className="underline-on-hover" href={site?.toString()} target="_blank">
                             <h4 className="text-[24px] text-white cursor-pointer">Site</h4>
                         </a>
