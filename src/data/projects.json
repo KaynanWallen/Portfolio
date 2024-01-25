@@ -1,0 +1,98 @@
+{
+    "projetos": [
+        {
+            "stack": "front-end",
+            "nome": "Portfolio Antigo",
+            "descricao": "Projeto React que simula o ambiente do Visual Studio Code, apresentando interações envolventes. Este antigo portfólio destaca habilidades de desenvolvimento e criatividade na representação do Visual Studio Code.",
+            "repositorio": "https://github.com/KaynanWallen/Portifolio-2.0",
+            "site": "https://meu-portfolio-lake.vercel.app",
+            "imagem": "https://cdn.discordapp.com/attachments/782586141303767070/1199872501879144448/Captura_de_tela_2024-01-24_212403.png?ex=65c41f59&is=65b1aa59&hm=c0c1315438a483dc44f90829ecd532e48eee6d4763f6d09b14ba6dfed7f7fef5&",
+            "status": "Concluido"
+        },
+        {
+            "stack": "front-end",
+            "nome": "PokeDashboard",
+            "descricao": "Aplicativo front-end em React que simula uma plataforma de jogos como Epic Games/Steam, proporcionando uma experiência intuitiva de navegação e interação.",
+            "repositorio": "https://github.com/KaynanWallen/MyGameHub",
+            "site": "https://my-game-hub.vercel.app",
+            "imagem": "https://cdn.discordapp.com/attachments/782586141303767070/1199874807299309608/Captura_de_tela_2024-01-24_213356.png?ex=65c4217e&is=65b1ac7e&hm=b51669cd01e4606830754aba4a538fd43cd0a25a75e25d85e7d80e1a9e7e2381&",
+            "status": "Concluido"
+        },
+        {
+            "stack": "front-end",
+            "nome": "GitFinder",
+            "descricao": "Aplicação React simples que consome a API do GitHub, permitindo a busca eficiente de perfis e repositórios, facilitando a descoberta de projetos e contribuidores.",
+            "repositorio": "https://github.com/KaynanWallen/GitHubFinder",
+            "site": "https://git-hub-finder-omega.vercel.app",
+            "imagem": "https://cdn.discordapp.com/attachments/782586141303767070/1199874814396071999/Captura_de_tela_2024-01-24_213343.png?ex=65c42180&is=65b1ac80&hm=6dd2608a71d7b61783481a7e5375cb4e40d32b695f812a253a68f88f5da0c4e5&",
+            "status": "Concluido"
+        },
+        {
+            "stack": "front-end",
+            "nome": "Library Movies",
+            "descricao": "Aplicação React que consome uma API de filmes, oferecendo uma interface para pesquisa e listagem de diversos títulos, proporcionando uma experiência de descoberta cinematográfica.",
+            "repositorio": "https://github.com/KaynanWallen/LibraryMovies",
+            "site": "https://library-movies.vercel.app",
+            "imagem": "https://cdn.discordapp.com/attachments/782586141303767070/1199770866905514054/image.png?ex=65c3c0b1&is=65b14bb1&hm=a43b93104f3c1ca3b38b3ef6cd14504748af21f478922925f510bec2d4107839&",
+            "status": "Concluido"
+        },
+        {
+            "stack": "front-end",
+            "nome": "Twitter Clone",
+            "descricao": "Clone simplificado do Twitter, desenvolvido com React e Tailwind CSS, recriando a experiência visual e interativa da plataforma de microblogs.",
+            "repositorio": "https://github.com/KaynanWallen/TwitterClone",
+            "site": "https://twitter-teal-two.vercel.app",
+            "imagem": "https://cdn.discordapp.com/attachments/782586141303767070/1199771189120348230/image.png?ex=65c3c0fe&is=65b14bfe&hm=2c80a49e8a678ca3e71df4c3badfe17fa844f4519d661441019fa7a57fcea8e6&",
+            "status": "Concluido"
+        },
+        {
+            "stack": "front-end",
+            "nome": "Futuros Projetos",
+            "descricao": "Vaga Reserva a futuros projetos que estão em desenvolvimento, visite novamente mais tarde",
+            "repositorio": "https://github.com/KaynanWallen",
+            "site": "https://www.linkedin.com/in/kaynan-wallen-9b542024a/",
+            "imagem": "https://cdn.discordapp.com/attachments/782586141303767070/1199874322748166144/103056-desenvolvimento-pessoal-e-profissional-como-apoiar-seus-colaboradores-e1499427819527.png?ex=65c4210b&is=65b1ac0b&hm=1d27aa9b230d3f81a24e05c17c33ea029a2809e768ccd518c992a5a5b2631612&",
+            "status": "Em andamento"
+        }
+    ],
+    "habilidades": [
+        {
+            "logo": "",
+            "img": ""
+        }
+    ],
+    "certificacoes": [
+        {
+            "nome": "Desenvolvimento de Sistemas",
+            "instituicao": "Etec",
+            "duracao": "1 ano e meio",
+            "conclusao": "2023",
+            "nivel": "Técnico",
+            "certificado": "n/a"
+        },
+        {
+            "nome": "Análise e Desenvolvimento de Sistema ",
+            "instituicao": "USF",
+            "duracao": "2 anos e maio",
+            "conclusao": "2025",
+            "nivel": "Técnologo",
+            "certificado": "n/a"
+        },
+        {
+            "nome": "Programador Full Stack",
+            "instituicao": "OneBitCode",
+            "duracao": "360 horas",
+            "conclusao": "2023",
+            "nivel": "Curso",
+            "certificado": "n/a"
+        },
+        {
+            "nome": "Outros",
+            "instituicao": "Udemy",
+            "duracao": "30 horas",
+            "conclusao": "2023",
+            "nivel": "Curso",
+            "certificado": "n/a"
+        }
+    ]
+}
