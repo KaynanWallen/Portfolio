@@ -25,7 +25,7 @@ function CardProjeto({ nome, descricao, site, repositorio, imagem, status }: Car
 
     return (
         <div className="w-full h-full flex justify-center items-center">
-            <div className="w-[250px] h-[400px]  border-verde border-2 flex flex-col items-center py-5 gap-2 shadow-sombreado-verde relative cursor-pointer mini:w-[350px]" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>
+            <div className="w-[250px] h-auto border-verde border-2 flex flex-col items-center py-5 gap-2 shadow-sombreado-verde relative cursor-pointer mini:w-[350px] md:h-[400px]" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>
                 {!CardFlip ? (
                     <>
                         <img className="w-[90%]" src={imagem?.toString()} alt="Projeto Trás" />

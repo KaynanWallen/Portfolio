@@ -36,7 +36,6 @@ function Main() {
     const [dataCertificacoes, setDataCertificacoes] = useState<iCertificacoesProps[]>([]);
 
     useEffect(() => {
-
         setDataProjetos(datadb.projetos)
         setDataCertificacoes(datadb.certificacoes)
         function handleResize() {

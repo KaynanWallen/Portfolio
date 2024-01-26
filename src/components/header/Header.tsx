@@ -7,7 +7,7 @@ import menu from '/img/menu.png'
 import { useState } from 'react'
 
 function Header() {
-    const [menuEspansivo, setmenuEspansivo] = useState(true)
+    const [menuEspansivo, setmenuEspansivo] = useState(false)
 
     const scrollToId = (id: string) => {
         const element = document.getElementById(id);
